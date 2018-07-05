@@ -1,0 +1,23 @@
+#menu {
+    border-radius: .0rem !important;
+    background-color:#169ccc;
+}
+#menu a {
+    color: white;
+    text-transform: uppercase;
+}
+#menu a:focus, a:hover {
+    color: #014c8c;
+    text-decoration: underline;
+}
+/*
+#menu-navegacion {
+    height: 40px;
+}
+.nav-pills {
+    margin-top: 20px;
+}
+*/
+.bg-light {
+    background-color: #f8f9fa!important;
+}
